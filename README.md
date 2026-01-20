@@ -1,2 +1,2 @@
-# java14_sample
-java14_sample
+# java17_sample
+java17_sample
